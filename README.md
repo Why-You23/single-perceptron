@@ -6,5 +6,5 @@ I implemented three basic gates through single perceptron.
 try for NOR gate.
 
 
-note: XOR gate is implementable through single perceptron.
+note: XOR gate is not implementable through single perceptron.
 
